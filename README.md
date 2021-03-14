@@ -1,4 +1,4 @@
-# nooworld
-Noobee, a student’s personal robot, was motivated by a desire to explore a more human side of robotics.  Noobees use 3-wire I2C to communicate using text characters, so that classroom robots can communicate with their peer robots, in either human or computer language, through inexpensive cables and without the cost, size, and supply current burdens required by Wi-Fi or Bluetooth.
-
-By using the I2C interface to send ordinary written messages, students coding Noobee can explore their own interpersonal communication in a very creative fashion. And they can program the robot with a coding language created by educators or even the students themselves.
+# The Nexus Project
+Advanced Computing Platforms are student-designed computer systems each providing sporting two interconnected system boards rather than one. Each is designed to provide solutions within a specific domain. The two system boards operate as one, providing a uniform user experience on a single monitor, while providing functionality not possible with a single system board. 
+Nexus is an affordable dual-processor Advanced Computer Platform (ACP) built into a portable magnetic whiteboard.  It is designed to support both AI and a new class of magnetic classroom manipulatives grounded in recent brain research.  See our solutions gallery for examples. 
+Nexus, like all ACPs, runs either Windows or Linux operating systems.  It can be operated without a separate monitor, keyboard, or mouse.  Using VNC technology, its display and input devices can be almost any network-capable device, including Chromebook, mobile platforms, laptops, and other PCs.
